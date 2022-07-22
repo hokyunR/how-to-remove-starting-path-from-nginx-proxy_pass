@@ -9,8 +9,17 @@ services:
     ports:
       - 80:80
     depends_on:
+      - websocket-server
       - app-1
       - app-2
+    restart: always
+
+  websocket-server:
+    build:
+      context: ./websocket-server
+      dockerfile: Dockerfile
+    expose:
+      - 5000
     restart: always
 
   app-1:
