@@ -6,5 +6,4 @@
 
 ### 데모
 
-https://user-images.githubusercontent.com/93635070/180353752-1a8ad0e1-9442-4110-a69e-70078774f159.mp4
-
+![화면 기록 2022-07-22 오전 11 54 28](https://user-images.githubusercontent.com/93635070/180354615-91d2eb5c-2baf-4485-b70b-e9bbc28e4c21.gif)
